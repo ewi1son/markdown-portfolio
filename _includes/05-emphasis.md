@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Understand the absolute basics of _GitHub_
+* Understand how _VSCODE, MAMP, and GitHub_ can all work together
